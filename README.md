@@ -1,2 +1,2 @@
-# p-gina-html
+# pagina-html
 Estudo HTML/CSS
