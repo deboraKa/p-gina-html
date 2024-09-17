@@ -35,13 +35,7 @@ A página é dividida em três seções principais:
   
 ## Estrutura de Arquivos
 
-/aula02 
-|-- desafio_proz.html 
-# Arquivo principal da página 
-|-- download.jpeg 
-# Imagem do logo do Recife usada no cabeçalho 
-|-- download (1).jpeg 
-# Imagem do Marco Zero usada na seção principal
+/aula02|-- desafio_proz.html # Arquivo principal da página|-- download.jpeg # Imagem do logo do Recife usada no cabeçalho a|-- download (1).jpeg # Imagem do Marco Zero usada na seção principal
 
 ## Estilização
 
